@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCIpPDS6alSGkHXxwHtsque95Dg4zPnWJ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39764022000</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>react.native.clearchoice.com</string>
+	<key>PROJECT_ID</key>
+	<string>clearchoice-3c177</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clearchoice-3c177.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39764022000:ios:fad63aba41dbc98fbe2835</string>
+	<key>DATABASE_URL</key>
+	<string>https://clearchoice-3c177-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

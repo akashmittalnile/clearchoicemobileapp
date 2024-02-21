@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "39764022000",
+    "firebase_url": "https://clearchoice-3c177-default-rtdb.firebaseio.com",
+    "project_id": "clearchoice-3c177",
+    "storage_bucket": "clearchoice-3c177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39764022000:android:f68bd7a57587c3f4be2835",
+        "android_client_info": {
+          "package_name": "com.clearchoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpvtmIcpOEIsNf9ZfU4qNHsPVDDL_9eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
